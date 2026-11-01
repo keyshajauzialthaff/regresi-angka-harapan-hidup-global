@@ -2,8 +2,7 @@
 
 # Faktor-Faktor yang Memengaruhi Angka Harapan Hidup Global (WHO)
 
-Repositori ini berisi laporan dan kode sumber untuk analisis data Angka Harapan Hidup (*Life Expectancy*) menggunakan dataset resmi dari World Health Organization (WHO) melalui Kaggle. Proyek ini dikerjakan untuk memenuhi tugas kelompok mata kuliah terkait pengolahan dan analisis data.
-
+Repositori ini berisi laporan dan kode sumber untuk analisis data Angka Harapan Hidup (*Life Expectancy*) menggunakan dataset resmi dari World Health Organization (WHO) melalui Kaggle.
 ---
 
 ## 📊 Tentang Dataset
